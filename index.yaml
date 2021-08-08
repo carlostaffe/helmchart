@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  otro:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-08T13:37:59.55873849Z"
+    description: A Helm chart for Kubernetes
+    digest: 9ddc6f93163ef28275eabcaa2901da20d2f59d7ab60751343fcebe89f5e6e2f0
+    name: otro
+    type: application
+    urls:
+    - charts/otro-0.1.0.tgz
+    version: 0.1.0
+  testhelm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-08T13:37:59.560067214Z"
+    description: A Helm chart for Kubernetes
+    digest: 7e7aaa707e6c0981c3c45586c21ec5e9140221af832b128d15720908c451dd15
+    name: testhelm
+    type: application
+    urls:
+    - charts/testhelm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-08T13:37:59.556906364Z"
