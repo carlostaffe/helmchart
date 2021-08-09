@@ -70,7 +70,7 @@ resources: {}
 
 Probes:
   ReadinessProbe:
-    path: /algo
+    path: /
 
   LivenessProbe:
     path: /
